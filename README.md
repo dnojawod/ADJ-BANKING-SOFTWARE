@@ -14,6 +14,8 @@
 > Just go to either **Admin** or **Client** located in Source-->BLL folder. Then run **Admin_Main.py** or **Client_Main.py** for admin side or client side, respectively.  
 > NOTE: Check the database file for the default username and password login in the admin part. The program has no feature wherein you can add an admin account, however you can use an insert query directly into the database file.
 
+### Acknowledgements
+> This is a Banking Software Desktop Application project in partial fulfillment of the requirements for the course COE125, Software Engineering, under Engr. Dionis Padilla, Mapúa University, Intramuros, Manila, Philippines.
 ----
 ### Group Members
 * [ANTOLIN, Arryll Mori](https://github.com/amnantolin)
