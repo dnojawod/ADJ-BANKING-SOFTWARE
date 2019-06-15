@@ -17,6 +17,7 @@
 ### Acknowledgements
 > This is a Banking Software Desktop Application project in partial fulfillment of the requirements for the course COE125, Software Engineering, under Engr. Dionis Padilla, Mapúa University, Intramuros, Manila, Philippines.
 ----
+COE125-C2-1Q1819 Group 1
 ### Group Members
 * [ANTOLIN, Arryll Mori](https://github.com/amnantolin)
 * [JAWOD, Danielle Nicole](https://github.com/dnojawod)
